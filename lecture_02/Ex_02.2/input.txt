@@ -1,0 +1,6 @@
+10000
+100
+
+
+  ReadInput >> M number of simulations;
+  ReadInput >> N number of steps;

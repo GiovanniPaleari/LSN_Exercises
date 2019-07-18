@@ -1,0 +1,18 @@
+100
+100
+100
+1000000
+100
+0
+1.2
+0
+
+
+  input >> x_in
+  input >> y_in
+  input >> z_in
+  input >> nstep
+  input >> nblocks
+  input >> transition probability (0 uniform, 1 multivariate normal)
+  input >> step
+  input >> which wave function? (0 1s , 1 2p, ...)

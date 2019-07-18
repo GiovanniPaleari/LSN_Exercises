@@ -1,0 +1,4 @@
+The parameters that minimize the energy are:
+sigma =  0.6
+mu =  0.8
+E_min =  -0.443852

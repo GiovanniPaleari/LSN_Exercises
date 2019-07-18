@@ -1,0 +1,12 @@
+80
+0
+1
+
+
+
+
+
+
+  ReadInput >> ncities;
+  ReadInput >> Square (0) or Circumference (1)?
+  ReadInput >> Square Side or Circumference radius

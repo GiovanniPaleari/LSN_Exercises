@@ -1,0 +1,16 @@
+0.1
+0.1
+0.1
+100
+10000
+0
+
+
+
+
+  ReadInput >> jump;
+  ReadInput >> sigma;
+  ReadInput >> mu;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> xin

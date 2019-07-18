@@ -1,0 +1,16 @@
+10000
+100
+100
+1
+100
+0.1
+0.25
+
+
+  input >> M  number of simulations
+  input >> N  number of blocks
+  input >> S_0  asset price at t=0
+  input >> t    delivery time
+  input >> K    strike price
+  input >> r    risk free interest rate
+  input >> sigma  volatility

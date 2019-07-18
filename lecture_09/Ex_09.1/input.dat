@@ -1,0 +1,16 @@
+100
+30
+1000
+0
+6
+
+
+
+
+
+
+  ReadInput >> population;
+  ReadInput >> ncities;
+  ReadInput >> generations
+  ReadInput >> Square (0) or Circumference (1)?
+  ReadInput >> Square Side or Circumference radius

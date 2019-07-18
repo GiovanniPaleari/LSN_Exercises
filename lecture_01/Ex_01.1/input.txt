@@ -1,0 +1,5 @@
+1000000
+100
+
+  ReadInput >> M number of MC steps;
+  ReadInput >> N number of blocks;
